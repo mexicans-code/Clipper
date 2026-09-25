@@ -2,5 +2,7 @@
 
 Repositorio para publicar los documentos legales de **Podcast Clipper** a través de GitHub Pages:
 
-- [Privacy Policy](PRIVACY-POLICY.md)
-- [Terms of Service](TERMS-OF-SERVICE.md)
+- [Términos de Servicio](https://mexicans-code.github.io/Clipper/TERMS-OF-SERVICE/)
+- [Política de Privacidad](https://mexicans-code.github.io/Clipper/PRIVACY-POLICY/)
+
+Se publican mediante una GitHub Action (`.github/workflows/pages.yml`).
